@@ -38,6 +38,6 @@ This project requires the following Python libraries:
 - XGBoost
 - 
 **Deployment**
-model is deploted in AWS used Elastic Beanstalk &  CodePipeline
+model is deploted in AWS used Elastic Beanstalk &  CodePipeline<br>
 url: http://phishsingdomain-env.eba-bnpny4zw.ap-south-1.elasticbeanstalk.com
 
